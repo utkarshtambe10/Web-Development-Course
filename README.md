@@ -1,4 +1,4 @@
-# web-development-course-coursera
+# HTML, CSS and JavaScript for Web Developers by Johns Hopkins University.
 This is a repository for coursera course. HTML, CSS and JavaScript for Web Developers.
 These repository contains all the answers/solutions to the assignmnets asked in every week or module of the course.
 The link to course: https://www.coursera.org/learn/html-css-javascript-for-web-developers
