@@ -1,4 +1,4 @@
-# Web-Development Course 💻🌐👨‍💻🔗
+# Web-Development-Course 💻🌐👨‍💻🔗
 This is a repository for coursera course. HTML, CSS and JavaScript for Web Developers by Johns Hopkins University.
 These repository contains all the answers/solutions to the assignmnets asked in every week or module of the course.
 The link to course: <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers" target="_blank">HTML, CSS and JavaScript for Web Developers.</a>
